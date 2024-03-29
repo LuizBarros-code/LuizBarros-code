@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, me chamo Luiz Barros mas pode me chama de Neto!
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**LuizBarros-code/LuizBarros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:walking: Atualmente estou estudando Ciencia da computação na facape, e estou em buscar da minha primeira vaga de emprego/estagio.
 
-Here are some ideas to get you started:
+## Estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+          
+## Ferramentas e Tecnologias
+
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" />
+          
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+ 
+          
+          
+
