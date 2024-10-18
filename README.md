@@ -3,7 +3,7 @@
 
 :walking: Atualmente estou estudando Ciencia da computação na facape, e estou em buscar da minha primeira vaga de emprego/estagio.
 
-Site pessoal: https://site-pessoal-kappa-seven.vercel.app
+Site pessoal: (https://luizneto.shop)
 
 ## Estou aprendendo
 
