@@ -1,7 +1,7 @@
 # Olá, me chamo Luiz Barros mas pode me chama de Neto!
 ## Bem vindo ao meu perfil GitHub 👋
 
-:walking: Atualmente estou estudando Ciencia da computação na facape, e estou em buscar da minha primeira vaga de emprego/estagio.
+:walking: Atualmente estou estudando Ciencia da computação na facape.
 
 Site pessoal: (https://luizneto.shop)
 
