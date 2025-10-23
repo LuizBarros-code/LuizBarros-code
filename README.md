@@ -4,7 +4,9 @@
 
 🚶 Atualmente estou estudando **Ciência da Computação** na FACAPE.
 
-🌐 **Site pessoal:** [luizneto.shop](https://luizneto.shop)
+💼 **Desenvolvedor de Software** na UNIVASF (Estagiário) | **Freelancer Fullstack**
+
+🎯 Apaixonado por tecnologia e desenvolvimento de soluções inovadoras. Atuo como desenvolvedor de software na UNIVASF, onde aplico meus conhecimentos em desenvolvimento web e mobile. Também trabalho como freelancer fullstack, desenvolvendo projetos personalizados para clientes.
 
 ## Estou aprendendo
 
@@ -21,8 +23,8 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuizBarros-code&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&show_icons=true&icon_color=30A3DC&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuizBarros-code&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizBarros-code&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBarros-code&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ## Contatos
